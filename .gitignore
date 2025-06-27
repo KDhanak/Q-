@@ -1,0 +1,41 @@
+# Ignore build outputs
+bin/
+obj/
+
+# VS Code settings folder
+.vscode/
+
+# User-specific files for Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider IDE files
+.idea/
+
+# MacOS files
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# NuGet package files
+*.nupkg
+*.snupkg
+
+# Packages folder if you store packages locally
+packages/
+
+# Logs
+*.log
+
+# Test results
+TestResults/
+
+# Temporary files
+*.tmp
+
+# Q# specific - generated files or folders (usually under obj, bin)
+# (No special Q# files to ignore beyond standard .NET patterns)
+
